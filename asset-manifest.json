@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Da-BucketList/static/css/main.9691e1f7.css",
+    "main.js": "/Da-BucketList/static/js/main.e6321d26.js",
+    "index.html": "/Da-BucketList/index.html",
+    "main.9691e1f7.css.map": "/Da-BucketList/static/css/main.9691e1f7.css.map",
+    "main.e6321d26.js.map": "/Da-BucketList/static/js/main.e6321d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9691e1f7.css",
+    "static/js/main.e6321d26.js"
+  ]
+}
